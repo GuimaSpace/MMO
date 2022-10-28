@@ -1,0 +1,3 @@
+function validarsenha() {
+    alert("asd")
+}
